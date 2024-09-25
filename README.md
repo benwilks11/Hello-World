@@ -1,6 +1,6 @@
 ## Hello-World
 
-> Initial Repository
+**Initial Repository**
 > 
 *This is my first repository created to show what I can do on GitHub*
 >
