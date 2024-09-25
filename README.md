@@ -4,6 +4,10 @@
 > 
 *This is my first repository created to show what I can do on GitHub*
 >
-I can do very cool things such as ==this==
+I will use GitHub to:
+1. Showcase projects
+2. Become an attractive candidate for jobs
+3. Increase my coding prowess
 >
-~as well as this~
+As well as do things like
+~this~
